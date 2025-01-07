@@ -1,3 +1,8 @@
+/luarocks
+/lua
+/lua_modules
+/.luarocks
+
 # Invisible Files
 .DS_Store
 Thumbs.db
